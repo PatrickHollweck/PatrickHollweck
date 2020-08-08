@@ -11,10 +11,11 @@ He also likes to speak of himself in third person. (Wired!)
 | Email      | patrick-hollweck@gmx.de                     |
 | Twitter    | https://twitter.com/HollweckPatrick         |
 | Facebook   | https://www.facebook.com/patrick.hollweck.7 |
-| Discord    | Fetzen.NET#9296                             |
+| Website    | https://patrickable.de                      |
 | Github     | https://github.com/PatrickHollweck          |
 | Gitlab     | https://gitlab.com/PatrickHollweck          |
 | Steam      | http://steamcommunity.com/id/FetzenRndy_    |
+| Discord    | Fetzen.NET#9296                             |
 | Battle.NET | FetzenRndy#2197                             |
 
 <a href="https://stackexchange.com/users/9070994">
